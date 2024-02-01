@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/verilog/test/project_3/project_3.srcs/sources_1/new/half_adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module half_adder
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'sum' is not allowed [E:/verilog/test/project_3/project_3.srcs/sources_1/new/half_adder.v:26]
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/verilog/test/project_3/project_3.srcs/sim_1/new/half_adder_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module half_adder_tb
